@@ -215,6 +215,6 @@ public class Sauce {
         sc.checkCart();
         sc.checkOut();
         sc.takeScreenshot("FinalState");
-        // sc.tearDown();
+        sc.tearDown();
     }
 }
