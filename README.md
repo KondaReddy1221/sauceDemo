@@ -30,19 +30,6 @@ Login Automation: The script logs into the SauceDemo site using predefined crede
 .Screenshot on Failure: Automatically captures screenshots during any failure (e.g., element not found or timeout).
 .Retry Mechanism: Includes retries for elements that are stale or take too long to load.
 
-📁 Project Structure
-The project is organized as follows:
-
-sauce-demo-selenium-automation/
-├── src/
-│   └── sauceDemo/
-│       └── Sauce.java           # Main automation script
-│
-├── screenshots/                 # Folder to save screenshots taken during failures
-├── README.md                    # Project documentation
-├── .gitignore                   # Excluded files (e.g., IDE files, compiled classes)
-
-
 Author
 Your Name - KondaReddy1221
 
