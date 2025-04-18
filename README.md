@@ -1,4 +1,4 @@
-SauceDemo Selenium Automation Project
+SauceDemo Selenium Automation Project=
 This project demonstrates end-to-end Selenium automation for an e-commerce web application, SauceDemo. It simulates common user actions such as logging in, sorting products, adding items to the cart, viewing the cart, and completing the checkout process. This script is designed to showcase your skills in Selenium WebDriver, Java, and automation best practices.
 
 📝 Project Overview
