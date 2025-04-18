@@ -1,56 +1,28 @@
-SauceDemo Selenium Automation Project=
-This project demonstrates end-to-end Selenium automation for an e-commerce web application, SauceDemo. It simulates common user actions such as logging in, sorting products, adding items to the cart, viewing the cart, and completing the checkout process. This script is designed to showcase your skills in Selenium WebDriver, Java, and automation best practices.
+<h1 align="center">Hi 👋, I'm Immareddy KondaReddy</h1>
+<h3 align="center">A passionate QA Automation Engineer from India</h3>
 
-📝 Project Overview
-SauceDemo is a demo website often used for automation practice, where you can test various functionalities like logging in, interacting with product listings, adding items to the cart, and performing checkout. This project is built with Selenium WebDriver and Java and provides a comprehensive, real-world example of web automation.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kondareddy1221&label=Profile%20views&color=0e75b6&style=flat" alt="kondareddy1221" /> </p>
 
-The project automates the following actions on SauceDemo:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kondareddy1221" alt="kondareddy1221" /></a> </p>
 
-.Login with valid credentials
-.Sort products from low to high price
-.Add products (t-shirt and backpack) to the cart
-.Open and view the cart
-.Complete the checkout process with user details
-.Screenshot capture for failure scenarios
-.Retries on stale elements to ensure stability
+- 🌱 I’m currently learning **QA automation to build reliable, real-world testing solutions.**
 
-🔧 Technologies Used
-Selenium WebDriver: For automating the web interactions with the SauceDemo site.
-.Java: The main programming language used to write the automation script.
-.ChromeDriver: To interact with Google Chrome browser (can also be used in headless mode).
-.Apache Commons IO: For capturing and saving screenshots during test failures.
-.JUnit/TestNG (optional for future refactor): Testing framework that can be integrated for enhanced reporting and test management.
+- 👯 I’m looking to collaborate on [QA Automation Projects](https://github.com/KondaReddy1221/sauceDemo.git)
 
-🚀 Features
-Login Automation: The script logs into the SauceDemo site using predefined credentials.
-.Sorting Products: It sorts products by Price (Low to High).
-.Add to Cart: Automatically adds products to the shopping cart.
-.Cart Validation: Views the shopping cart and validates added items.
-.Checkout Process: Completes the checkout with user details.
-.Screenshot on Failure: Automatically captures screenshots during any failure (e.g., element not found or timeout).
-.Retry Mechanism: Includes retries for elements that are stale or take too long to load.
+- 🤝 I’m looking for help with **QA Automation**
 
-Author
-Your Name - KondaReddy1221
+- 💬 Ask me about **QA Automation**
 
+- 📫 How to reach me **immareddyvenkatkondareddy@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/immareddy kondareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="immareddy kondareddy" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kondareddy1221&show_icons=true&locale=en&layout=compact" alt="kondareddy1221" /></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kondareddy1221&show_icons=true&locale=en" alt="kondareddy1221" /></p>
